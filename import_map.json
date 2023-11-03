@@ -1,7 +1,7 @@
 {
   "imports": {
-    "$live/": "https://denopkg.com/deco-cx/deco@1.45.0/",
-    "deco/": "https://denopkg.com/deco-cx/deco@1.45.0/",
+    "$live/": "https://denopkg.com/deco-cx/deco@1.45.6/",
+    "deco/": "https://denopkg.com/deco-cx/deco@1.45.6/",
     "$fresh/": "https://denopkg.com/deco-cx/fresh@1.4.3/",
     "preact": "https://esm.sh/preact@10.15.1",
     "preact/": "https://esm.sh/preact@10.15.1/",

@@ -1,7 +1,9 @@
-const apps = [{
-  dir: "./app",
-  name: "converge",
-}];
+const apps = [
+  {
+    dir: "./app",
+    name: "converge-chat",
+  },
+];
 
 const config = {
   apps,

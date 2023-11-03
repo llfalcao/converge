@@ -2,13 +2,13 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $$$0 from "./loaders/bin.ts";
+import * as $$$$$$0 from "./sections/Converge/Chat.tsx";
 
 const manifest = {
-  "loaders": {
-    "converge/loaders/bin.ts": $$$0,
+  "sections": {
+    "converge-chat/sections/Converge/Chat.tsx": $$$$$$0,
   },
-  "name": "converge",
+  "name": "converge-chat",
   "baseUrl": import.meta.url,
 };
 

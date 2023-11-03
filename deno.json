@@ -12,13 +12,10 @@
   "githooks": {
     "pre-commit": "check"
   },
-  "exclude": [
-    "static",
-    "README.md"
-  ],
-  "importMap": "./import_map.json",
+  "exclude": ["static", "README.md"],
   "compilerOptions": {
     "jsx": "react-jsx",
     "jsxImportSource": "preact"
-  }
+  },
+  "importMap": "./import_map.json"
 }
